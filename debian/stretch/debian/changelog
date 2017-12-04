@@ -1,4 +1,4 @@
-ignition-msgs0 (0.7.0-3~stretch) stretch; urgency=medium
+ignition-msgs0 (0.7.0-2~stretch) stretch; urgency=medium
 
   * ignition-msgs0 0.7.0-2 release
   * Change to versioned ignition-msgs0.
