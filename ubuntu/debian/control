@@ -36,7 +36,7 @@ Package: libignition-msgs0-dev
 Architecture: any
 Section: libdevel
 Depends: libprotobuf-dev (>= 2.3.0),
-         libignition-math4-dev,
+         libignition-math3-dev,
          libignition-msgs0 (= ${binary:Version})
 Multi-Arch: same
 # The special suffix 0DISTRO0 is needed to make the version to be lower
