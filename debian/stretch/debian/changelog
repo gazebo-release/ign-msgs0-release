@@ -1,26 +1,10 @@
-ignition-msgs (1.0.0~pre4-1~stretch) stretch; urgency=medium
+ignition-msgs0 (0.7.0-3~stretch) stretch; urgency=medium
 
-  * ignition-msgs 1.0.0~pre4-1 release
+  * ignition-msgs0 0.7.0-2 release
+  * Change to versioned ignition-msgs0.
+  * Change repository
 
  -- Steve Peters <scpeters@osrfoundation.org>  Fri, 01 Dec 2017 16:26:33 -0800
-
-ignition-msgs (1.0.0~pre3-1~stretch) stretch; urgency=medium
-
-  * ignition-msgs 1.0.0~pre3-1 release
-
- -- Steve Peters <scpeters@osrfoundation.org>  Wed, 29 Nov 2017 15:57:23 -0800
-
-ignition-msgs (1.0.0~pre2-1~stretch) stretch; urgency=medium
-
-  * ignition-msgs 1.0.0~pre2-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 09 Oct 2017 11:57:26 +0200
-
-ignition-msgs (1.0.0~pre1-1~stretch) stretch; urgency=medium
-
-  * ignition-msgs 1.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 09 Oct 2017 00:50:41 +0200
 
 ignition-msgs (0.7.0-2~stretch) stretch; urgency=medium
 
