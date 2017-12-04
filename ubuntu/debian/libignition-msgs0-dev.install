@@ -2,3 +2,4 @@ usr/include/*
 usr/lib/*/*.so
 usr/lib/*/pkgconfig/*.pc
 usr/lib/*/cmake/ignition-msgs*/*
+usr/lib/ruby/ignition/cmdmsgs*.rb
