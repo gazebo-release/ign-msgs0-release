@@ -41,6 +41,8 @@ Depends: libprotobuf-dev (>= 2.3.0),
          libignition-math4-dev,
          libignition-msgs (= ${binary:Version})
 Multi-Arch: same
+Replaces: libignition-msgs-dev (<< 0.7.0-2)
+Breaks: libignition-msgs-dev (<< 0.7.0-2)
 Description: Protobuf messages for ignitionics applications - Development files
  This library provides a set of google protobuf messages that are typically used
  in ignition applications. 
