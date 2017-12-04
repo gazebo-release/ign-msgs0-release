@@ -8,9 +8,8 @@ Build-Depends: cmake,
                debhelper (>= 7.0.50~),
                libprotoc-dev,
                libprotobuf-dev (>= 2.3.0),
-               libignition-cmake-dev,
-               libignition-math4-dev,
-               protobuf-compiler,
+               libignition-math3-dev,
+               protobuf-compiler
 Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign_msgs-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign_msgs-release
 Homepage: http://ignitionrobotics.org/
@@ -37,7 +36,6 @@ Package: libignition-msgs0-dev
 Architecture: any
 Section: libdevel
 Depends: libprotobuf-dev (>= 2.3.0),
-         libignition-cmake-dev,
          libignition-math4-dev,
          libignition-msgs0 (= ${binary:Version})
 Multi-Arch: same
