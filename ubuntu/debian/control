@@ -39,7 +39,7 @@ Section: libdevel
 Depends: libprotobuf-dev (>= 2.3.0),
          libignition-cmake-dev,
          libignition-math4-dev,
-         libignition-msgs (= ${binary:Version})
+         libignition-msgs0 (= ${binary:Version})
 Multi-Arch: same
 Replaces: libignition-msgs-dev (<< 0.7.0-2)
 Breaks: libignition-msgs-dev (<< 0.7.0-2)
