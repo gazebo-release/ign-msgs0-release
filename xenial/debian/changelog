@@ -1,6 +1,8 @@
-ignition-msgs (0.7.0-2~xenial) xenial; urgency=medium
+ignition-msgs0 (0.7.0-2~xenial) xenial; urgency=medium
 
   * ignition-msgs 0.7.0-2 release
+  * Change to versioned ignition-msgs0.
+  * Change repository
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 04 Dec 2017 14:56:42 +0100
 
