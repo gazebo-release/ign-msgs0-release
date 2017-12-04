@@ -28,6 +28,14 @@ Description: Protobuf messages for ignitionics applications - Shared library
 Package: libignition-msgs-dev
 Architecture: any
 Section: libdevel
+Depends: libignition-msgs0-dev
+Multi-Arch: same
+Description: transitional package
+ This is a transitional package. It can safely be removed.
+
+Package: libignition-msgs0-dev
+Architecture: any
+Section: libdevel
 Depends: libprotobuf-dev (>= 2.3.0),
          libignition-cmake-dev,
          libignition-math4-dev,
